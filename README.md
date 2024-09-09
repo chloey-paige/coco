@@ -2,11 +2,11 @@
 
 🐢Table of Contents🐧
 
-- [Fish i think are cute](https://github.com/chloey-paige/coco/edit/main/README.md#fish-i-think-are-cute)
-- [fish that are a little bit odd...](https://github.com/chloey-paige/coco/edit/main/README.md#fish-that-are-a-little-bit-odd)
-- ice cream flavors!!
-- fun times
-- numbers 1-1,000
+- [Fish i think are cute](#fish-i-think-are-cute)
+- [fish that are a little bit odd...](#fish-that-are-a-little-bit-odd)
+- [ice cream flavors!!](#ice-cream-flavors)
+- [fun times](#fun-times)
+- [numbers to 1,000](#numbers-to-1,000)
 
 ## Fish i think are cute 
 
@@ -18,7 +18,7 @@
 ![images](https://github.com/user-attachments/assets/66f4b160-4b64-4433-b852-40ee6997a329)
 
 
-## Fish that are a little bit odd...
+## Fish that are a little bit odd
 ![images](https://github.com/user-attachments/assets/2fb7a4ae-1d2b-4ffe-9873-69ecce517686)
 ![images](https://github.com/user-attachments/assets/3cd27be6-8358-433e-88a2-b9362b3519b0)
 ![images](https://github.com/user-attachments/assets/e94c5041-c23e-4317-bc94-1b65f9c2deb4)
@@ -127,7 +127,7 @@ BananaBlack raspberry
 
 ... tell me a fun time...
 
-## numbers 1-1,000
+## numbers to 1,000
 
 1, 2, skip a few 999, 1,000...     naw i'm just kidding 
 1
