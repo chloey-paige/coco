@@ -6,7 +6,7 @@
 - [fish that are a little bit odd...](#fish-that-are-a-little-bit-odd)
 - [ice cream flavors!!](#ice-cream-flavors)
 - [fun times](#fun-times)
-- [numbers to 1,000](#numbers-to-1,000)
+- [numbers to 1,000](#numbers-to-one-thousend)
 
 ## Fish i think are cute 
 
@@ -127,7 +127,7 @@ BananaBlack raspberry
 
 ... tell me a fun time...
 
-## numbers to 1,000
+## numbers to one thousend
 
 1, 2, skip a few 999, 1,000...     naw i'm just kidding 
 1
